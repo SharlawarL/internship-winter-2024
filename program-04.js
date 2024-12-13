@@ -1,7 +1,7 @@
 console.log("*******************************************")
 console.log("      Javascript Map, Filter and Reduce  ")
 console.log("******************************************* \n\n")
-
+ 
 console.log("Map ==>>> \n")
 
 let arr = [ 2, 4, 8, 10 ]
