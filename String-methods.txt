@@ -1,0 +1,78 @@
+*Question*: Write a JavaScript function that returns the length of a given string.
+*Expected Output:*
+*Input*: "JavaScript"
+*Output*: 10
+
+*Question*: Write a JavaScript function that returns the index of the first occurrence of the substring "apple" in a string.
+*Expected Output:*
+*Input*: "I have an apple and a banana"
+*Output*: 11
+
+*Question*: Write a JavaScript function that returns the index of the last occurrence of the substring "apple" in a string.
+*Expected Output:*
+*Input*: "I have an apple and another apple"
+*Output*: 27
+
+*Question*: Write a JavaScript function to search for the position of the first number in a string using a regular expression.
+*Expected Output:*
+*Input*: "My favorite number is 42"
+*Output*: 21
+
+*Question*: Write a JavaScript function that searches for the first occurrence of a digit (0-9) in a string.
+*Expected Output:*
+*Input*: "The year is 2024"
+*Output*: 12
+
+*Question*: Write a JavaScript function that finds the position of the first vowel (a, e, i, o, u) in a given string.
+*Expected Output:*
+*Input*: "rhythm"
+*Output*: -1 (no vowels)
+*Input*: "JavaScript"
+*Output*: 1 (first vowel is 'a' at index 1)
+
+*Question*: Write a JavaScript function that finds the position of the first sequence of two or more digits in a string.
+*Expected Output:*
+*Input*: "There are 20 apples"
+*Output*: 10
+*Input*: "I have 1 apple"
+*Output*: -1 (only one digit)
+
+*Question*: Write a JavaScript function that finds the position of the first word that ends with the letter 's' in a string.
+*Expected Output:*
+*Input*: "The dogs are barking"
+*Output*: 4
+
+*Question*: Write a JavaScript function that finds the position of the first word that starts with a capital letter.
+*Expected Output:*
+*Input*: "hello World"
+*Output*: 6
+
+*Question*: Write a JavaScript function that replaces the first occurrence of "dog" with "cat" in a string.
+*Expected Output:*
+*Input*: "The dog is in the yard"
+*Output*: "The cat is in the yard"
+
+*Question*: Write a JavaScript function that pads a number string (like "42") with zeros at the start to make it a length of 5 characters.
+*Expected Output:*
+*Input*: "42"
+*Output*: "00042"
+
+*Question*: Write a JavaScript function that pads the string "hello" with exclamation marks (!) at the end to make it 10 characters long.
+*Expected Output:*
+*Input*: "hello"
+*Output*: "hello!!!!!"
+
+*Question*: Write a JavaScript function that extracts the word "world" from the string "Hello world!".
+*Expected Output:*
+*Input*: "Hello world!"
+*Output*: "world"
+
+*Question*: Write a JavaScript function that extracts the first 4 characters of a string.
+*Expected Output:*
+*Input*: "JavaScript"
+*Output*: "Java"
+
+*Question*: Write a JavaScript function that extracts 6 characters from a string starting from the 4th character.
+*Expected Output:*
+*Input*: "JavaScript"
+*Output*: "Script"
